@@ -1,3 +1,4 @@
 UUS LISANDUS GIT MÄRKMETELE
 RIDA ÜHES COMMIT JAOKS
 RIDA järgmise COMMIT jaoks v1.05, eelmine oli v1.04
+RIDA järgmise COMMIT jaoks v1.06
